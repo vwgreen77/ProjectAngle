@@ -1,0 +1,1 @@
+This directory should only contain files related to the software. This includes, but is not limited to ANY code, libraries, binary files, ROM files, software architecture, software design, etc.

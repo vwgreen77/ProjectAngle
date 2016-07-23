@@ -1,0 +1,1 @@
+This directory should only contain files related to the hardware. This includes, but is not limited to circuit design, PCB layout, bill of materials (BOM), datasheets, etc. 
